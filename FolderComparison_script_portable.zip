@@ -1,12 +1,23 @@
 # Folder Comparison Tool (FCT) Portable
 A portable version of the same tool, no need for any installation. Run the programme from the folder.
 
-## Intended Use
+## Intended Use.
 
 The intended use of this file is to run this utility while avoiding installing it as a programme.
 
-### 1. Download Zip File
+1. Download Zip File.
 
 Download the .zip file using this link: 
 
-### 2. 
+2. Extract Files.
+
+Extract the files to the desired location e.g. a folder in your C: Drive, or USB Drive.
+
+3. Create a shortcut to run the programme from.
+
+Create a shortcut for the "FolderComparison_script_Portable.exe" file and place it in a convenient location e.g. your desktop.
+Alternatively you can run the programme directly from the folder.
+
+4. Run It.
+
+Run the programme by clicking on your shortcut / the "FolderComparison_script_Portable.exe" file and compare some folders.
