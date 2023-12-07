@@ -14,7 +14,7 @@ The Folder Comparison Tool is a simple utility for comparing files in two folder
 ## Usage
 
 1. **Download:**
-   - Download the latest release from the [FolderComparison_script.exe] page.
+   - Download the latest release from the [Releases] https://github.com/j45e45/File-Comparison-Version-1/releases/tag/v1.0 page.
 
 2. **Installation:**
    - Run the installer and follow the on-screen instructions.
